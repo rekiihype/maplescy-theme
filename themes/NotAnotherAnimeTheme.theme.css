@@ -26,12 +26,12 @@
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(67, 181, 129);
+  --main-theme-color: rgb(255, 105, 135);
 
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.8);
+  --theme-transparency: rgba(15, 15, 25, 0.75);
 
   /*
     Home Icon Image
@@ -55,7 +55,7 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 126px;
+  --server-listing-width: 62px;
 
   /*
     Font Size
@@ -65,14 +65,14 @@
   /*
     Mention colors
   */
-  --mention-color: rgba(250, 166, 26, 0.05);
-  --mention-sider: rgba(250, 166, 26, 1);
-  --mention-hover-color: rgba(250, 166, 26, 0.08);
+  --mention-color: rgba(255, 120, 150, 0.05);
+  --mention-sider: rgba(255, 120, 150, 1);
+  --mention-hover-color: rgba(255, 120, 150, 0.08);
 
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(60, 202, 138);
+  --category-hover-color: rgb(255, 140, 165);
 
   /*
     Change the unread server animation.
@@ -97,26 +97,26 @@
     Small User Popout
   */
   --small-user-popout-background-image: var(--theme-background-image);
-  --small-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
+  --small-user-popout-background-transparency: rgba(10, 10, 20, 0.7);
   --small-user-popout-background-image-position: center;
 
   /*
     Big User Popout
   */
   --big-user-popout-background-image: var(--theme-background-image);
-  --big-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
+  --big-user-popout-background-transparency: rgba(10, 10, 20, 0.7);
   --big-user-popout-background-image-position: center;
 
   /*
     Code Markup
   */
   --code-markup-background-color: rgba(0, 0, 0, 0.6);
-  --code-markup-border: 1px solid transparent;
+  --code-markup-border: 1px solid rgba(255, 120, 150, 0.2);
 
   /*
     Message Box Transparency
   */
-  --message-box-transparency: rgba(0, 0, 0, 0.6);
+  --message-box-transparency: rgba(20, 20, 30, 0.65);
 
   /*
     Embed Background Transparency
@@ -126,7 +126,7 @@
   /*
     Message Hover Buttons
   */
-  --message-hover-buttons-background: rgba(200, 200, 200, 0.1);
+  --message-hover-buttons-background: rgba(255, 120, 150, 0.15);
 
   /*
     Context Menu Transparency
@@ -137,7 +137,7 @@
     Add Server / Discovery Icon
   */
   --add-discover-icon-transparency: rgba(200, 200, 200, 0.15);
-  --add-discover-icon-color: #43b581;
+  --add-discover-icon-color: #ff6987;
 
   /*
     Channel Limit Number Color
@@ -149,18 +149,18 @@
   /*
     Scrollbar Colors
   */
-  --scrollbar-color: rgba(200, 200, 200, 0.2);
+  --scrollbar-color: rgba(255, 120, 150, 0.3);
 
   /*
     Unread Message Divider
   */
-  --unread-message-divider-color: #f04747;
+  --unread-message-divider-color: #ff6b9d;
   --unread-message-divider-font-color: #fff;
 
   /*
     New Messages Bar Color
   */
-  --new-messages-bar-background-color: #7289da;
+  --new-messages-bar-background-color: #ff5c8d;
   --new-messages-bar-font-color: #fff;
 
   /*
@@ -191,7 +191,7 @@
   /*
     Folders
   */
-  --folder-background-color: #2f3136;
+  --folder-background-color: rgba(40, 35, 45, 0.9);
   --expanded-folder-background-color: transparent;
 
   /*
@@ -199,6 +199,6 @@
   */
   --reaction-emoji-background-color: rgba(0, 0, 0, 0);
   --reaction-emoji-border-color: 1px solid transparent;
-  --reaction-emoji-hover-background-color: rgba(255, 255, 255, 0.1);
+  --reaction-emoji-hover-background-color: rgba(255, 120, 150, 0.2);
   --reaction-emoji-hover-border-color: rgba(255, 255, 255, 0.2);
 }
