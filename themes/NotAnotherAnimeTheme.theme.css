@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://cdn.discordapp.com/attachments/1263656136649736195/1382146403802812416/marin-wallpaper.png?ex=693ab165&is=69395fe5&hm=1046154b012ea5dc48fb9d988e6b7c0d26f51c0a5da29ef21da64d55118b7cd7&);
+  --theme-background-image: url(https://raw.githubusercontent.com/rekiihype/maplescy-theme/main/images/marin-wallpaper.png);
 
   /*
     Main Theme Color
@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://media.discordapp.net/attachments/1263656136649736195/1382146639296331866/f0318f971ed829ed16d8e24cbef23086.jpg?ex=693ab19d&is=6939601d&hm=3ce5e051585894f2c3a859b589203320620336bfd367e2c69e2066d412109df6&=&format=webp);
+  --home-icon-image: url(https://raw.githubusercontent.com/rekiihype/maplescy-theme/main/images/silverwolf.png);
 
   /*
     Change your friends icon image position
